@@ -1,0 +1,12 @@
+/workspaces/banking-app-csharp/src/BankingApp.Core/bin/Debug/net9.0/BankingApp.Core.deps.json
+/workspaces/banking-app-csharp/src/BankingApp.Core/bin/Debug/net9.0/BankingApp.Core.dll
+/workspaces/banking-app-csharp/src/BankingApp.Core/bin/Debug/net9.0/BankingApp.Core.pdb
+/workspaces/banking-app-csharp/src/BankingApp.Core/obj/Debug/net9.0/BankingApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/banking-app-csharp/src/BankingApp.Core/obj/Debug/net9.0/BankingApp.Core.AssemblyInfoInputs.cache
+/workspaces/banking-app-csharp/src/BankingApp.Core/obj/Debug/net9.0/BankingApp.Core.AssemblyInfo.cs
+/workspaces/banking-app-csharp/src/BankingApp.Core/obj/Debug/net9.0/BankingApp.Core.csproj.CoreCompileInputs.cache
+/workspaces/banking-app-csharp/src/BankingApp.Core/obj/Debug/net9.0/BankingApp.Core.sourcelink.json
+/workspaces/banking-app-csharp/src/BankingApp.Core/obj/Debug/net9.0/BankingApp.Core.dll
+/workspaces/banking-app-csharp/src/BankingApp.Core/obj/Debug/net9.0/refint/BankingApp.Core.dll
+/workspaces/banking-app-csharp/src/BankingApp.Core/obj/Debug/net9.0/BankingApp.Core.pdb
+/workspaces/banking-app-csharp/src/BankingApp.Core/obj/Debug/net9.0/ref/BankingApp.Core.dll
