@@ -16,8 +16,10 @@ class Program
         Console.WriteLine("═══════════════════════════════════════");
         Console.WriteLine();
 
+        // Ein bool ist ein true/false Wert
         bool beenden = false;
 
+        // Hauptmenü Schleife. Wiederholt sich bis beenden = true ist
         while (!beenden)
         {
             Console.WriteLine("\n--- Hauptmenü ---");
@@ -26,12 +28,14 @@ class Program
             Console.WriteLine("3. Beenden");
             Console.Write("\nBitte wählen Sie eine Option: ");
           
-
+            // Liest die Benutzereingabe von der Konsole            
             string? auswahl = Console.ReadLine();
 
+            // Verarbeitet die Benutzereingabe
             switch (auswahl)
             {
                 case "1":
+                    // Wenn die Auswahl "1" ist, rufe die Methode NeuerKunde auf
                     NeuerKunde();
                     break;
                 case "2":
@@ -52,6 +56,7 @@ class Program
     {
         Console.WriteLine("\n--- Neuen Kunden hinzufügen ---");
 
+        // Instanziierung eines neuen Kundenobjekts.
         var kunde = new Kunde();
 
         Console.Write("Vorname: ");
